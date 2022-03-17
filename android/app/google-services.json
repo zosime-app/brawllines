@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "684775158426",
+    "firebase_url": "https://brawl-lines.firebaseio.com",
+    "project_id": "brawl-lines",
+    "storage_bucket": "brawl-lines.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684775158426:android:293719e35634ff8e0da523",
+        "android_client_info": {
+          "package_name": "me.zosime.brawllines"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684775158426-m77scupob279udbm4bfjjlg2189oipqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcjcDscoTxmaJbTirTq8quGcX2JDaFUeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684775158426-m77scupob279udbm4bfjjlg2189oipqf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "684775158426-dgku4de393gpg27eqnkovrv68ubmk0op.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "me.zosime.brawllines"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5724904727720223~3235444336"
+    }
+  ],
+  "configuration_version": "1"
+}
